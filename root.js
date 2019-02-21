@@ -8,7 +8,7 @@ const app = new Vue({
                 job:'前端工程师',
                 school:'苏州科技大学 本科',
                 telephone:'18860905139',
-                email:'741472797@qq.com',
+                email:'nxdzhong@foxmail.com',
                 wechat:'ajing741472797',
                 age:'25',
             },
@@ -16,27 +16,36 @@ const app = new Vue({
                 {
                     name:'《网易云音乐》',
                     useSkill:'MVC、Observer设计模式、jQuery、响应式布局 、七牛&LeanCloud数据库、Swiperr',
-                    imgLink:'./img/5.jpg',
-                    sourceLink:'https://github.com/ajing741472797/163-music-demo',
+                    imgLink:'./img/163music.jpg',
                     previewLink:'https://ajing741472797.github.io/163-music-demo/src/index.html',
+                    sourceLink:'https://github.com/ajing741472797/163-music-demo',
                     blogLink:' ',
                     describe:'移动端播放歌曲、切换、暂停、搜索等功能，PC 端歌曲上传、删除、修改等功能。使用 jQuery、MVC，以及七牛、LeanCloud等作为数据库实现。使用vConsole进行调试。'
                 },
                 {
+                    name:'《vue高仿cnode社区》',
+                    useSkill:'MVVM、组件化、vue-cli 、vue-router、vue-resource、filter、computed、生命周期、webpack',
+                    imgLink:'./img/cnode.jpg',
+                    previewLink:'https://nxdzhong.com/dist/#/',
+                    sourceLink:'https://github.com/ajing741472797/vue-cnode-community',
+                    blogLink:' ',
+                    describe:'使用vue-cli作为脚手架，使用vue-router进行前端路由的切换及传参，使用watch监听路由的变化，使用axios获取数据，JSON格式化工具对数据整理，webpack打包。'
+                },
+                {
                     name:'《自定义导航网页》',
                     useSkill:'原生JavaScript、locationStorage、JSON、favicon、onerror、图床、CSS Gradient Generator',
-                    imgLink:'./img/1.png',
-                    sourceLink:'https://github.com/ajing741472797/myBookmarks',
+                    imgLink:'./img/bookmark.png',
                     previewLink:'https://ajing741472797.github.io/myBookmarks/index.html',
+                    sourceLink:'https://github.com/ajing741472797/myBookmarks',
                     blogLink:' ',
                     describe:'该项目使用原生JS实现一个键盘导航，该导航支持百度、谷歌搜索，键盘字母绑定自定义的网站。协议+域名+/favicon 作为 URL，请求成功后能够获取到网站的图标，用CSS Gradient Generator 实现了键盘颜色的渐变，用locationStorage实现了用户输入url保存到本地的功能。'
                 },
                 {
                     name:'《我是一只皮卡丘》',
                     useSkill:'JavaScript、jQuery、Prism.js、Rem响应式页面',
-                    imgLink:'./img/2.png',
-                    sourceLink:'https://github.com/ajing741472797/drawingPikachu',
+                    imgLink:'./img/pikachu.png',
                     previewLink:'https://ajing741472797.github.io/drawingPikachu/',
+                    sourceLink:'https://github.com/ajing741472797/drawingPikachu',
                     blogLink:' ',
                     describe:'动态向<style>标签和<pre>标签添加文本，绘制出皮卡丘的过程。用css3实现动画的效果，用prism.js实现代码高亮的效果，用rem实现响应式布局。'
                 },
@@ -44,18 +53,18 @@ const app = new Vue({
                 {
                     name:'《Canvas画板》',
                     useSkill:'原生JavaScript、Canvas、移动端、SVG、特性检测',
-                    imgLink:'./img/4.png',
-                    sourceLink:'https://github.com/ajing741472797/drawingboard',
+                    imgLink:'./img/canvas.png',
                     previewLink:'https://ajing741472797.github.io/drawingboard/canvas.html',
+                    sourceLink:'https://github.com/ajing741472797/drawingboard',
                     blogLink:' ',
                     describe:'该项目使用原生JS实现，主要调用 Canvas API，实现了线粗、调色、橡皮擦、保存等功能。用 context.clearRect()实现了 橡皮檫和清屏的功能，用 className切换实现了笔的线粗、颜色切换的功能，用meta:vp、特性检测、ontouch事件实现了触屏设备与web端兼容。'
                 },
                 {
                     name:'《苹果风格无缝轮播》',
                     useSkill:'JavaScript、jQuery',
-                    imgLink:'./img/3.jpg',
-                    sourceLink:'https://github.com/ajing741472797/AppleSlide',
+                    imgLink:'./img/appleslide.jpg',
                     previewLink:'https://ajing741472797.github.io/AppleSlide/',
+                    sourceLink:'https://github.com/ajing741472797/AppleSlide',
                     blogLink:' ',
                     describe:'该无缝轮播能够自动播放、点击前后按钮切换图片、点击第N个灰色按钮切换到第N张图片。通过百分比布局实现更改图片尺寸不影响无缝轮播效果，通过jQuery动态生成与img数量相等的button，通过jQuery动态增删class来激活button的状态。'
                 },
