@@ -26,7 +26,7 @@ const app = new Vue({
                     name:'《vue高仿cnode社区》',
                     useSkill:'MVVM、组件化、vue-cli 、vue-router、vue-resource、filter、computed、生命周期、webpack',
                     imgLink:'./img/cnode.jpg',
-                    previewLink:'https://nxdzhong.com/dist/#/',
+                    previewLink:'https://ajing741472797.github.io/vue-cnode-community/dist/#/',
                     sourceLink:'https://github.com/ajing741472797/vue-cnode-community',
                     blogLink:' ',
                     describe:'使用vue-cli作为脚手架，使用vue-router进行前端路由的切换及传参，使用watch监听路由的变化，使用axios获取数据，JSON格式化工具对数据整理，webpack打包。'
