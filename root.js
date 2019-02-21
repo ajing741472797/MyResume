@@ -14,6 +14,15 @@ const app = new Vue({
             },
             projects:[
                 {
+                    name:'《网易云音乐》',
+                    useSkill:'MVC、Observer设计模式、jQuery、响应式布局 、七牛&LeanCloud数据库、Swiperr',
+                    imgLink:'./img/5.jpg',
+                    sourceLink:'https://github.com/ajing741472797/163-music-demo',
+                    previewLink:'https://ajing741472797.github.io/163-music-demo/src/index.html',
+                    blogLink:' ',
+                    describe:'移动端播放歌曲、切换、暂停、搜索等功能，PC 端歌曲上传、删除、修改等功能。使用 jQuery、MVC，以及七牛、LeanCloud等作为数据库实现。使用vConsole进行调试。'
+                },
+                {
                     name:'《自定义导航网页》',
                     useSkill:'原生JavaScript、locationStorage、JSON、favicon、onerror、图床、CSS Gradient Generator',
                     imgLink:'./img/1.png',
