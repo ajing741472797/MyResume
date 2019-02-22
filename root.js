@@ -14,7 +14,7 @@ const app = new Vue({
             },
             projects:[
                 {
-                    name:'《网易云音乐》',
+                    name:'《JQuery仿网易云音乐》',
                     useSkill:'MVC、Observer设计模式、jQuery、响应式布局 、七牛&LeanCloud数据库、Swiperr',
                     imgLink:'./img/163music.jpg',
                     previewLink:'https://ajing741472797.github.io/163-music-demo/src/index.html',
@@ -23,7 +23,7 @@ const app = new Vue({
                     describe:'移动端播放歌曲、切换、暂停、搜索等功能，PC 端歌曲上传、删除、修改等功能。使用 jQuery、MVC，以及七牛、LeanCloud等作为数据库实现。使用vConsole进行调试。'
                 },
                 {
-                    name:'《vue高仿cnode社区》',
+                    name:'《vue搭建cnode社区》',
                     useSkill:'MVVM、组件化、vue-cli 、vue-router、vue-resource、filter、computed、生命周期、webpack',
                     imgLink:'./img/cnode.jpg',
                     previewLink:'https://ajing741472797.github.io/vue-cnode-community/dist/#/',
