@@ -28,7 +28,7 @@ const app = new Vue({
                     imgLink:'./img/cnode.jpg',
                     previewLink:'https://ajing741472797.github.io/vue-cnode-community/dist/#/',
                     sourceLink:'https://github.com/ajing741472797/vue-cnode-community',
-                    blogLink:' ',
+                    blogLink:'https://zhuanlan.zhihu.com/p/57399418',
                     describe:'使用vue-cli作为脚手架，使用vue-router进行前端路由的切换及传参，使用watch监听路由的变化，使用axios获取数据，JSON格式化工具对数据整理，webpack打包。'
                 },
                 {
@@ -156,7 +156,7 @@ const app = new Vue({
                 }, 
             ],
             statement:{
-                content:'2018年6月毕业于苏州科技大学，在大学期间做了三年的微信公众号运营，热爱互联网。大四期间在科锐国际一家上市猎头公司做了1个月的运营实习生，帮助团队推动即派项目的进行。毕业后五个月先后在一家网约车和一家电商运营公司做运营。工作五个月接触了前端，发现自己热爱技术。至今为止脱产自学前端半年，热爱写代码，享受通过各种代码组合做出想要成果的过程，享受解决bug的过程，享受创造的过程。'
+                content:'2018年6月毕业于苏州科技大学，在大学期间做了三年的微信公众号运营，热爱互联网。毕业后五个月先后在一家网约车和一家电商运营公司做运营。后来经朋友介绍接触了前端，发现自己热爱技术。至今为止脱产自学前端半年，热爱写代码，享受解决bug的过程，目前掌握HTML，CSS，JavaScript，JQuery，Vue框架，可以进行开发工作。'
             },
         },
         line:{
