@@ -19,7 +19,7 @@ const app = new Vue({
                     imgLink:'./img/163music.jpg',
                     previewLink:'https://ajing741472797.github.io/163-music-demo/src/index.html',
                     sourceLink:'https://github.com/ajing741472797/163-music-demo',
-                    blogLink:' ',
+                    blogLink:'https://zhuanlan.zhihu.com/p/57983416',
                     describe:'移动端播放歌曲、切换、暂停、搜索等功能，PC 端歌曲上传、删除、修改等功能。使用 jQuery、MVC，以及七牛、LeanCloud等作为数据库实现。使用vConsole进行调试。'
                 },
                 {
@@ -28,7 +28,7 @@ const app = new Vue({
                     imgLink:'./img/vue-blog-client.jpg',
                     previewLink:'https://ajing741472797.github.io/vue-blog-client/dist/index.html#/',
                     sourceLink:'https://github.com/ajing741472797/vue-blog-client',
-                    blogLink:'',
+                    blogLink:'https://zhuanlan.zhihu.com/p/57913633',
                     describe:'使用vue-cli作为脚手架，使用vue-router进行前端路由的切换及传参，使用axios获取数据并对api封装，使用vuex来做全局状态管理，webpack打包。完成首页、博客详情、注册登录、编辑创建博客等页面'
                 },
                 {
@@ -46,7 +46,7 @@ const app = new Vue({
                     imgLink:'./img/bookmark.png',
                     previewLink:'https://ajing741472797.github.io/myBookmarks/index.html',
                     sourceLink:'https://github.com/ajing741472797/myBookmarks',
-                    blogLink:' ',
+                    blogLink:'',
                     describe:'该项目使用原生JS实现一个键盘导航，该导航支持百度、谷歌搜索，键盘字母绑定自定义的网站。协议+域名+/favicon 作为 URL，请求成功后能够获取到网站的图标，用CSS Gradient Generator 实现了键盘颜色的渐变，用locationStorage实现了用户输入url保存到本地的功能。'
                 },
                 {
@@ -55,7 +55,7 @@ const app = new Vue({
                     imgLink:'./img/pikachu.png',
                     previewLink:'https://ajing741472797.github.io/drawingPikachu/',
                     sourceLink:'https://github.com/ajing741472797/drawingPikachu',
-                    blogLink:' ',
+                    blogLink:'',
                     describe:'动态向<style>标签和<pre>标签添加文本，绘制出皮卡丘的过程。用css3实现动画的效果，用prism.js实现代码高亮的效果，用rem实现响应式布局。'
                 },
            
@@ -65,7 +65,7 @@ const app = new Vue({
                     imgLink:'./img/canvas.png',
                     previewLink:'https://ajing741472797.github.io/drawingboard/canvas.html',
                     sourceLink:'https://github.com/ajing741472797/drawingboard',
-                    blogLink:' ',
+                    blogLink:'',
                     describe:'该项目使用原生JS实现，主要调用 Canvas API，实现了线粗、调色、橡皮擦、保存等功能。用 context.clearRect()实现了 橡皮檫和清屏的功能，用 className切换实现了笔的线粗、颜色切换的功能，用meta:vp、特性检测、ontouch事件实现了触屏设备与web端兼容。'
                 },
                 {
@@ -74,7 +74,7 @@ const app = new Vue({
                     imgLink:'./img/appleslide.jpg',
                     previewLink:'https://ajing741472797.github.io/AppleSlide/',
                     sourceLink:'https://github.com/ajing741472797/AppleSlide',
-                    blogLink:' ',
+                    blogLink:'',
                     describe:'该无缝轮播能够自动播放、点击前后按钮切换图片、点击第N个灰色按钮切换到第N张图片。通过百分比布局实现更改图片尺寸不影响无缝轮播效果，通过jQuery动态生成与img数量相等的button，通过jQuery动态增删class来激活button的状态。'
                 },
             ],
