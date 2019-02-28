@@ -15,7 +15,7 @@ const app = new Vue({
             projects:[
                 {
                     name:'《jQuery仿网易云音乐》',
-                    useSkill:'MVC、Observer设计模式、jQuery、响应式布局 、七牛&LeanCloud数据库、Swiperr',
+                    useSkill:'MVC、Observer设计模式、jQuery、响应式布局 、七牛&LeanCloud数据库、Swiper',
                     imgLink:'./img/163music.jpg',
                     previewLink:'https://ajing741472797.github.io/163-music-demo/src/index.html',
                     sourceLink:'https://github.com/ajing741472797/163-music-demo',
