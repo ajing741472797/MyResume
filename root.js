@@ -23,7 +23,16 @@ const app = new Vue({
                     describe:'移动端播放歌曲、切换、暂停、搜索等功能，PC 端歌曲上传、删除、修改等功能。使用 jQuery、MVC，以及七牛、LeanCloud等作为数据库实现。使用vConsole进行调试。'
                 },
                 {
-                    name:'《vue搭建cnode社区》',
+                    name:'《Vue创建多人共享博客》',
+                    useSkill:'vue-cli 、vue-router、vuex、axios、es6、element-ui、filters、computed、组件通信、生命周期，MVVM，webpack',
+                    imgLink:'./img/vue-blog-client.jpg',
+                    previewLink:'https://ajing741472797.github.io/vue-blog-client/dist/index.html#/',
+                    sourceLink:'https://github.com/ajing741472797/vue-blog-client',
+                    blogLink:'',
+                    describe:'使用vue-cli作为脚手架，使用vue-router进行前端路由的切换及传参，使用axios获取数据并对api封装，使用vuex来做全局状态管理，webpack打包。完成首页、博客详情、注册登录、编辑创建博客等页面'
+                },
+                {
+                    name:'《Vue搭建cnode社区》',
                     useSkill:'MVVM、组件化、vue-cli 、vue-router、vue-resource、filter、computed、生命周期、webpack',
                     imgLink:'./img/cnode.jpg',
                     previewLink:'https://ajing741472797.github.io/vue-cnode-community/dist/#/',
