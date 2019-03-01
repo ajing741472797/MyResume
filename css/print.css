@@ -112,11 +112,13 @@ main{
 
 .projectShow .pictureAndLink .projectLink .links{
     margin:15px 0;
+    color: #1d1626;
+    font-weight: 300;
 }
 
 
 .projectShow .pictureAndLink .projectLink .links a:hover{
-    color:blue;
+    color:#009ad6;
 }
 
 .projectShow .projectPicture{
