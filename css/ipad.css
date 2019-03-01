@@ -201,4 +201,13 @@ main .splitLine .inLine{
     bottom:0px;
     left:0;    
 }
-
+.proName{
+    color: #ef4136;
+    font-weight: bold
+    
+}
+.skillStyle{
+    font-weight: 500;
+    color: #009ad6
+    
+}

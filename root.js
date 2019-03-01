@@ -24,7 +24,7 @@ const app = new Vue({
                 },
                 {
                     name:'《Vue创建多人共享博客》',
-                    useSkill:'vue-cli 、vue-router、vuex、axios、es6、element-ui、filters、computed、组件通信、生命周期，MVVM，webpack',
+                    useSkill:'vue-cli 、vue-router、vuex、axios、ES6、element-ui、filters、computed、组件通信、生命周期，MVVM，webpack',
                     imgLink:'./img/vue-blog-client.jpg',
                     previewLink:'https://ajing741472797.github.io/vue-blog-client/dist/index.html#/',
                     sourceLink:'https://github.com/ajing741472797/vue-blog-client',
@@ -165,7 +165,7 @@ const app = new Vue({
                 }, 
             ],
             statement:{
-                content:'2018年6月毕业于苏州科技大学，在大学期间做了三年的微信公众号运营，热爱互联网。毕业后五个月先后在一家网约车和一家电商运营公司做运营。后来经朋友介绍接触了前端，发现自己热爱技术。至今为止脱产自学前端半年，热爱写代码，享受解决bug的过程，目前掌握HTML，CSS，JavaScript，JQuery，Vue框架，可以进行开发工作。'
+                content:'2018年6月毕业于苏州科技大学，在大学期间做了三年的微信公众号运营，热爱互联网。毕业后做了5个月运营工作。后来接触了前端，发现自己热爱技术。至今为止脱产自学前端1年，热爱写代码，享受解决bug的过程，目前掌握HTML，CSS，JavaScript，jQuery，Vue框架等，能胜任开发工作。我的简历：https://nxdzhong.com/resume'
             },
         },
         line:{

@@ -99,6 +99,7 @@ main{
 .infoShow .name h1{
     font-size:36px;
     margin-bottom:8px;
+    color: #1d1626
 }
 .infoShow .infomation{
     margin-left:60px;
@@ -165,7 +166,7 @@ main{
 
 .projectShow .content strong{
     padding-right:5px;
-    color: black
+    color: #1d1626
 }
 
 
@@ -229,8 +230,13 @@ main .splitLine .inLine{
     left:0;    
 }
  
-.projectName{
+.proName{
     color: #ef4136;
     font-weight: bold
+    
+}
+.skillStyle{
+    font-weight: 500;
+    color: #009ad6
     
 }
