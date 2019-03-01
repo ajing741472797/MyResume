@@ -137,6 +137,7 @@ main{
 
 .projectShow .content strong{
     padding-right:5px;
+    color: #1d1626;
 }
 
 
@@ -213,4 +214,7 @@ main .splitLine .inLine{
     font-weight: 500;
     color: #009ad6
     
+}
+.resumeLink{
+    color: #009ad6
 }

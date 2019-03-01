@@ -11,6 +11,8 @@ const app = new Vue({
                 email:'nxdzhong@foxmail.com',
                 wechat:'ajing741472797',
                 age:'25',
+                msg:'https://nxdzhong.com/resume',
+                
             },
             projects:[
                 {
@@ -165,7 +167,7 @@ const app = new Vue({
                 }, 
             ],
             statement:{
-                content:'2018年6月毕业于苏州科技大学，在大学期间做了三年的微信公众号运营，热爱互联网。毕业后做了5个月运营工作。后来接触了前端，发现自己热爱技术。至今为止脱产自学前端1年，热爱写代码，享受解决bug的过程，目前掌握HTML，CSS，JavaScript，jQuery，Vue框架等，能胜任开发工作。我的简历：https://nxdzhong.com/resume'
+                content:'2018年6月毕业于苏州科技大学，在大学期间做了三年的微信公众号运营，热爱互联网。毕业后做了5个月运营工作。后来接触了前端，发现自己热爱技术。至今为止脱产自学前端半年，热爱写代码，享受解决bug的过程，目前掌握HTML，CSS，JavaScript，jQuery，Vue框架等技术，能胜任开发工作。我的简历：'
             },
         },
         line:{
