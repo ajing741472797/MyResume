@@ -117,10 +117,10 @@ const app = new Vue({
                     name:'webpack',
                     describe:'了解webpack基础操作，能够安装webpack及配置相关loader,如bable-loader、sass-loader、postcss-loader。'
                 },    
-                {
-                    name:'Bootstrap',
-                    describe:'能够使用 Bootstrap 做出好看的网页。'
-                },                    
+                // {
+                //     name:'Bootstrap',
+                //     describe:'能够使用 Bootstrap 做出好看的网页。'
+                // },                    
                 {
                     name:'Git版本管理工具',
                     describe:'了解git，能够使用git的命令行进行代码版本的管理，并写了相应博客。'
