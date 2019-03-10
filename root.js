@@ -91,7 +91,7 @@ const app = new Vue({
                 },   
                 {
                     name:'Canvas',
-                    describe:'能够使用Canvas的部分API进行画图，并用Canvas做了《Canvas画板》写了相关的博客。'
+                    describe:'能够使用Canvas的部分API进行画图，并用Canvas做了《Canvas画板》。'
                 }, 
                 {
                     name:'原生JavaScript',
@@ -99,11 +99,11 @@ const app = new Vue({
                 }, 
                 {
                     name:'响应式布局、移动端适配',
-                    describe:'能够使用meta:viewport、媒体查询、动态rem、vw/vh进行响应式布局，用媒体查询做了该简历，用rem做了大白。'
+                    describe:'能够使用meta:viewport、媒体查询、动态rem、vw/vh进行响应式布局，用媒体查询做了该简历。'
                 },  
                 {
                     name:'jQuery',
-                    describe:'能够使用 jQuery 进行 DOM 操作，使用常见的API完成需求。用jQuery做了轮播和2048游戏。'
+                    describe:'能够使用 jQuery 进行 DOM 操作，使用常见的API完成需求。用jQuery做了网易云音乐和轮播。'
                 },    
                 {
                     name:'Vue.js',
@@ -151,7 +151,7 @@ const app = new Vue({
                 }, 
                 {
                     name:'Cookie和Session',
-                    describe:'了解客户端缓存、Cookie、session 等知识，并写了相应博客。'
+                    describe:'了解客户端缓存、Cookie、session 等知识。'
                 },    
                 {
                     name:'LocalStorage、Cache-Control、Etag',
