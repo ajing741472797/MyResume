@@ -107,7 +107,7 @@ const app = new Vue({
                 },    
                 {
                     name:'Vue.js',
-                    describe:'能够使用Vue.js完成需求，vue-cli、vue-router、vue-resource、vuex、slot、filters、组件通信、数据绑定等。'
+                    describe:'能够使用Vue.js完成需求，vue-cli、vue-router、axios、vuex、组件通信、数据绑定等。'
                 }, 
                 {
                     name:'MVC、Observer、MVVM设计模式',
@@ -127,7 +127,7 @@ const app = new Vue({
                 }, 
                 {
                     name:'new、this、闭包、原型链、作用域',
-                    describe:'了解 new 的过程，了解 this、闭包、原型链、作用域的基本概念，并能够熟练使用，写了相应博客。'
+                    describe:'了解 new 的过程，了解 this、闭包、原型链、作用域的基本概念，并能够熟练使用。'
                 },    
                 {
                     name:'继承',
@@ -135,7 +135,7 @@ const app = new Vue({
                 }, 
                 {
                     name:'DOM事件模型、事件委托',
-                    describe:'了解 DOM 事件模型，捕获、冒泡、处理三个阶段以及如何阻止事件的传递，并做了一个按钮 demo 。'
+                    describe:'了解 DOM 事件模型，捕获、冒泡、处理三个阶段以及如何阻止事件的传递。'
                 },   
                 {
                     name:'命令行',
